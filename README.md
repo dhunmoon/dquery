@@ -1,2 +1,3 @@
-# dquery
-A small light framework to query the document and do small DOM manipulations.
+# WIP
+
+Soon there will be some content to see.
